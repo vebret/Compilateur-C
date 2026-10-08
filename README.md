@@ -4,7 +4,7 @@ Projet de création d'un compilateur C utilisant Python et la bibliothèque `lar
 
 ## Utilisation
 
-Cloner le repo avec `git clone https://github.com/Pappnschlossa/Compilateur-C.git` et exécuter `script.sh`.
+Cloner le repo avec `git clone https://github.com/vebret/Compilateur-C.git` et exécuter `script.sh`.
 
 ## Fonctionnalités implémentées
 
